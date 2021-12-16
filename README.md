@@ -1,2 +1,2 @@
-# class-25
-generating multiple boats
+# PRO-C25-SA
+boilerplate code for student activituy
